@@ -1,0 +1,54 @@
+.bebasRegular {
+  font-family: 'BebasNeueRegular';
+}
+.baloo {
+  font-family: 'Baloo Tamma 2', cursive;
+}
+.dn {
+  display: none;
+}
+.s25 {
+  font-size: 25px !important;
+}
+.lh85 {
+  line-height: 0.85 !important;
+}
+.s65 {
+  font-size: 65px !important;
+}
+#bannerHome {
+  background: url("../images/banner1.png");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+}
+.main-color {
+  color: #ff8f00 !important;
+}
+.main-color2 {
+  color: #0606bd !important;
+}
+.uso-container {
+  background-color: #cecef2;
+}
+.uso-footer {
+  background-color: #5603dd;
+  min-height: 95px;
+}
+#lavado {
+  background-color: #eaeaff;
+}
+.pasos-lavado {
+  background: #090abe;
+}
+#slideCubrebocas {
+  background: #0606bd;
+}
+.tag-footer {
+  background-color: #eaeaff;
+}
+footer {
+  background-color: #25286b;
+  min-height: 250px;
+}
